@@ -12,7 +12,7 @@ npm ci
 npm start
 ```
 
-Open http://localhost:4200. Production output: `dist/raff-admin/browser`.
+Open http://localhost:4200. Production output: `dist`.
 
 ```sh
 npm run build
